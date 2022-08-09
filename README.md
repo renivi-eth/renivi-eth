@@ -1,5 +1,5 @@
 ### Hello everyone 😉
-This is my **Github** profile where I learn **Frontend** (html / css / JS / React) 🔋
+This is my **Github** profile where I learn **Frontend**  (html / css / JS / React) 🔋
 
 Sometimes I do small projects on Arduino ([repo](https://github.com/EgorIvin/arduino))
 
