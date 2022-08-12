@@ -5,7 +5,7 @@ Sometimes I do small projects on Arduino ([repo](https://github.com/EgorIvin/ard
 
 :envelope: ivinegor88@gmail.com
 
-:incoming_envelope: @renivi (telegram)
+:envelope: @renivi (telegram)
 
 ###  📊 My stats GitHub:
 ![Egor GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorIvin&theme=graywhite)
