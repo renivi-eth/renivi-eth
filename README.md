@@ -3,6 +3,7 @@ This is my **Github** profile where I learn **Frontend**  (JS / React / HTML / C
 
 Sometimes I do small projects on Arduino ([repo](https://github.com/EgorIvin/arduino))
 
+Where i study:
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 
 :envelope: ivinegor88@gmail.com
