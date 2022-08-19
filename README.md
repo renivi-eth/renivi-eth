@@ -1,5 +1,5 @@
 ### Hello everyone 😉
-This is my **Github** profile where I learn **JS** 🔋
+This is my **Github** profile where I learn **Java Script** 🔋
 
 Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorIvin/arduino))
 
