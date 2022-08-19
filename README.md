@@ -26,6 +26,8 @@ Where i study:
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
+![Codewars](https://www.codewars.com/users/EgorIvin/badges/large)
+
 :envelope: ivinegor88@gmail.com
 
 :envelope: @renivi (telegram)
