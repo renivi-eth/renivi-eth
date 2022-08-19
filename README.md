@@ -1,7 +1,7 @@
 ### Hello everyone 😉
-This is my **Github** profile where I learn **Frontend**  (JS / React / HTML / CSS) 🔋
+This is my **Github** profile where I learn **JS** 🔋
 
-Sometimes I do small projects on Arduino ([repo](https://github.com/EgorIvin/arduino))
+Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorIvin/arduino))
 
 What am I learning:
 
