@@ -35,6 +35,5 @@ Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorI
 
 ![Codewars](https://www.codewars.com/users/EgorIvin/badges/large)
 
-![Egor GitHub stats](https://github-readme-stats.vercel.app/api?username=EgorIvin&theme=graywhite)
 
 
