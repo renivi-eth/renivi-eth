@@ -31,8 +31,6 @@ Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorI
 
 :envelope: @renivi (telegram)
 
-###  📊 My stats GitHub and Codewars:
-
 ![Codewars](https://www.codewars.com/users/EgorIvin/badges/large)
 
 
