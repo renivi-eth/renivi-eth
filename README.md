@@ -3,7 +3,7 @@ This is my **Github** profile where I learn **Java Script** (interesting backend
 
 Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorIvin/arduino))
 
-**What am I learning:**
+*I'm learning now:**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -12,7 +12,7 @@ Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorI
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-**What i use:**
+**Tools:**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
@@ -20,7 +20,7 @@ Sometimes I do small projects on **Arduino** ([reposit](https://github.com/EgorI
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-**Where i study:**
+**I'm using:**
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
