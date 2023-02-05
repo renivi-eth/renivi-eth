@@ -1,7 +1,7 @@
 ### Hello everyone 😉
 This is my **Github** profile where I learn **Java Script** (interesting backend) 🔋
 
-also I did small projects on **Arduino** ([reposit](https://github.com/EgorIvin/arduino))
+also I did small projects on **Arduino** ([repo](https://github.com/EgorIvin/arduino))
 
 **I'm learning now:**
 
