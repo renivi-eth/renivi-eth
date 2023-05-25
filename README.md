@@ -36,5 +36,7 @@ also I did small projects on **Arduino** ([repo](https://github.com/EgorIvin/ard
 
 ![Codewars](https://www.codewars.com/users/EgorIvin/badges/large)
 
+![It's life](https://github.com/EgorIvin/screenshots/blob/1b0f6669a020c64ad9e1aff1d422d4f788ce7bda/%D0%AD%D1%82%D0%BE_%D0%BD%D0%B5%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE%2C_%D0%BD%D0%BE_%D1%8D%D1%82%D0%BE_%D1%87%D0%B5%D1%81%D1%82%D0%BD%D0%B0%D1%8F_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.jpg)
+
 
 
