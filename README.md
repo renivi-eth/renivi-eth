@@ -1,9 +1,7 @@
-### Hello everyone 😉
-This is my **Github** profile where I learn **Java Script** (interesting backend) 🔋
+### Hello! 👋
+Welcome to my GitHub profile! Here I'm learning JavaScript and diving into backend development. 🚀
 
-also I did small projects on **Arduino** ([repo](https://github.com/EgorIvin/arduino))
-
-**I'm learning now:**
+**Now I'm studying**
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -17,7 +15,7 @@ also I did small projects on **Arduino** ([repo](https://github.com/EgorIvin/ard
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
@@ -29,10 +27,13 @@ also I did small projects on **Arduino** ([repo](https://github.com/EgorIvin/ard
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)
 ![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
 
+Also I did small projects on **Arduino** (extremely small)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+([Repository](https://github.com/EgorIvin/arduino))
 
-:envelope: ivinegor88@gmail.com
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ivinegor88@gmail.com
 
-:envelope: @renivi (telegram)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) @renivi (telegram)
 
 ![Codewars](https://www.codewars.com/users/EgorIvin/badges/large)
 
