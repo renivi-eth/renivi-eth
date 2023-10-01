@@ -12,6 +12,7 @@ I'm currently learning **JavaScript** (trainee level), interested in **Backend D
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorIvin&theme=tokyonight)
+![GitHubStats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorIvin&theme=tokyonight)
+
 
 
