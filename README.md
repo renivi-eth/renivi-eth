@@ -3,7 +3,7 @@ It's Egor
 
 I'm currently learning **JavaScript** (trainee level), interested in **Backend Development** 
 
-![visitors](https://visitor-badge.laobi.icu/badge?EgorIvin=EgorIvin)
+![visitors](https://visitor-badge.laobi.icu/badge?EgorIvin=README.md)
 
 ![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?logo=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivinegor%2F)
 
