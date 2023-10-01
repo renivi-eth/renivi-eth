@@ -5,9 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/%40renivi---?logo=telegram&color=blue)](https://t.me/renivi)
 [![Static Badge](https://img.shields.io/badge/ivinegor88%40gmail.com---?logo=gmail&color=gray)]()
 
-It's Egor  
+My name is Egor  
 
-I'm currently learning **JavaScript** (trainee level), interested in **Backend Development** 
+I'm currently learning **JavaScript** (trainee lvl), interested in **Backend Development** 
 
 
 
@@ -19,7 +19,11 @@ I'm currently learning **JavaScript** (trainee level), interested in **Backend D
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+![CodeWars](https://www.codewars.com/users/renivi/badges/micro)
+
 ![GitHubStats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorIvin&theme=tokyonight)
+
+
 
 
 
