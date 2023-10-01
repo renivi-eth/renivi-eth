@@ -1,7 +1,7 @@
 # Hello there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EgorIvin.EgorIvin) 
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?logo=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivinegor%2F)
-![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ftheclockk&style=flat&logo=twitter&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Ftheclockk)
+
+
 
 
 It's Egor  
