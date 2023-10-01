@@ -1,5 +1,6 @@
 # Hello there 👋
 It's Egor  
+
 I'm currently learning **JavaScript** (trainee level), interested in **Backend Development** 
 
 
