@@ -1,8 +1,9 @@
 # Hello there 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=EgorIvin.EgorIvin) 
-
-
-
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Ftheclockk&style=flat&logo=twitter&label=Twitter&link=%5Bhttps%3A%2F%2Ftwitter.com%2Ftheclockk%5D)](https://twitter.com/theclockk)
+[![Static Badge](https://img.shields.io/badge/LinkedIn---?logo=linkedin&color=blue)](https://www.linkedin.com/in/ivinegor/)
+[![Static Badge](https://img.shields.io/badge/%40renivi---?logo=telegram&color=blue)](https://t.me/renivi)
+[![Static Badge](https://img.shields.io/badge/ivinegor88%40gmail.com---?logo=gmail&color=gray)]()
 
 It's Egor  
 
