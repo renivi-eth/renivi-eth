@@ -3,7 +3,8 @@ It's Egor
 
 I'm currently learning **JavaScript** (trainee level), interested in **Backend Development** 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=EgorIvin.visitor-badge)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=EgorIvin.EgorIvin)
+
 
 
 
