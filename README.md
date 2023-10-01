@@ -2,7 +2,8 @@
 It's Egor
 I'm currently learning JavaScript (trainee level), interested in Backend Development 
 
-![[LinkedIn_badges](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivinegor/)
+![Static Badge](https://img.shields.io/badge/:badgeContent?style=flat&logo=LinkedIn%20&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fivinegor%2F)
+
 
 
 ## 🔧 Technologies & Tools
