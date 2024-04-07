@@ -21,7 +21,6 @@ I'm currently learning **JavaScript** (trainee lvl), interested in **Backend Dev
 
 ![CodeWars](https://www.codewars.com/users/renivi/badges/micro)
 
-![GitHubStats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EgorIvin&theme=tokyonight)
 
 
 
