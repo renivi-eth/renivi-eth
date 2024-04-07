@@ -7,7 +7,7 @@
 
 My name is Egor  
 
-I'm currently learning **JS,TS,Node.js, MongoDB, PostgreSQL, Redis, Docker**
+I'm currently learning **JS, TS, Node.js, MongoDB, PostgreSQL, Redis, Docker**
 
 
 
