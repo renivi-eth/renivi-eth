@@ -20,6 +20,9 @@ I'm currently learning **JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL, R
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+Other: 
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) - renivi.eth (ENS)
+
 ![CodeWars](https://www.codewars.com/users/renivi/badges/micro)
 
 
