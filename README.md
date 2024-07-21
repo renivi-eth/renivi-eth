@@ -23,6 +23,7 @@ I'm currently learning **JavaScript, TypeScript, Node.js, MongoDB, PostgreSQL, R
 ## Other: 
 
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
 renivi.eth (ENS)
 
 ![CodeWars](https://www.codewars.com/users/renivi/badges/micro)
