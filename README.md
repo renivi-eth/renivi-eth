@@ -28,6 +28,7 @@
 ![CodeWars](https://www.codewars.com/users/renivi/badges/micro)
 
 
+![](https://github-readme-stats.vercel.app/api?username=renivi-eth&show_icons=true&theme=radical)
 
 
 
