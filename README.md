@@ -5,6 +5,8 @@
 [![Static Badge](https://img.shields.io/badge/%40renivi---?logo=telegram&color=blue)](https://t.me/renivi)
 [![Static Badge](https://img.shields.io/badge/ivinegor88%40gmail.com---?logo=gmail&color=gray)]()
 
+# keep it simple, stupid 
+
 ## Tech. stack: 🔧 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
